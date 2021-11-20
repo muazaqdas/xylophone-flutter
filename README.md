@@ -6,11 +6,11 @@
 
 ## What we created
 
-We’re created a music app that plays Xylophone sounds. 
+Created a music app that plays Xylophone sounds. 
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
 
-## What we learnt
+## What I learnt
 
 - How to incorporate open source libraries of code into our project using Flutter Packages.
 - How to play sound on both iOS and Android.
